@@ -10,10 +10,10 @@ This contains the MATLAB code (excluding its dependencies) for generating and an
 - A "modern" desktop/laptop CPU (i.e. built in the 2010's)
 - At LEAST 16GB of RAM (preferably more)
 - At least 80GB of disk space
-- Several hours of time to run the simulations (probably only 20 minutes 
+- Many hours (possibly up to 48 or more) of time to run the simulations (probably only 20 minutes 
 each), run the analysis (long), and save the data (long). Depending on your
 CPU and disk write speed, the entire data generation process may take 3 to 
-6 hours or more. Of course, the time to generate each individual plot after loading
+6 hours or more **per simulation**. Of course, the time to generate each individual plot after loading
 the proper data should take only a couple seconds.
 
 ### How to use:
